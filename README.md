@@ -36,7 +36,7 @@ This project extracts and summarizes the content of a given website using OpenAI
 
 Run the script with a website URL to get a summary:
 ```sh
-python script.py
+python Main.py
 ```
 
 ### Example
